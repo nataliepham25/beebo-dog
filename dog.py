@@ -17,10 +17,10 @@ if user_input == "left":
     print("Beebo sees a bacon filled sandwich that he desires")
     print("Decide what Beebo should do by typing 'Steal' to take the sandwich or 'run' to go to his friends")
     user_input = input()
-    if user_input == "Steal"
+    if user_input == "Steal":
         print("Beebo hits his head on the wall")
         print("Beebo walks out of the coffee shop to find his friends")
-    elif user_input == "run"
+    elif user_input == "run":
         print("Good Job Beebo! Now go find your friends!")
         print("Beebo walks through central park")
     print("Beebo sees a squirrel... Type 'bark' or 'attack' to decide what he does next") # finished the story by writing what happens
